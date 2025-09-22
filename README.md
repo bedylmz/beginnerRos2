@@ -32,10 +32,10 @@ to another terminal
 
 ### **Predefined Path**
 
-![explanation](img/usage.png)
+![start](start.png)
 
 Final view
 
-![explanation](img/usage.png)
+![finish](finish.png)
 
 ---
