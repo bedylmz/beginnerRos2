@@ -1,0 +1,17 @@
+[0.500s] Invoking command in '/home/bedylmz/Desktop/hw4/build/move_robot': PYTHONPATH=/home/bedylmz/Desktop/hw4/build/move_robot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/bedylmz/Desktop/hw4/install/move_robot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/bedylmz/Desktop/hw4/build/move_robot/build --no-deps symlink_data
+[0.707s] running develop
+[0.843s] running egg_info
+[0.843s] writing move_robot.egg-info/PKG-INFO
+[0.843s] writing dependency_links to move_robot.egg-info/dependency_links.txt
+[0.843s] writing entry points to move_robot.egg-info/entry_points.txt
+[0.843s] writing requirements to move_robot.egg-info/requires.txt
+[0.844s] writing top-level names to move_robot.egg-info/top_level.txt
+[0.845s] reading manifest file 'move_robot.egg-info/SOURCES.txt'
+[0.846s] writing manifest file 'move_robot.egg-info/SOURCES.txt'
+[0.847s] running build_ext
+[0.847s] Creating /home/bedylmz/Desktop/hw4/install/move_robot/lib/python3.10/site-packages/move-robot.egg-link (link to .)
+[0.848s] Installing move_forward script to /home/bedylmz/Desktop/hw4/install/move_robot/lib/move_robot
+[0.848s] 
+[0.848s] Installed /home/bedylmz/Desktop/hw4/build/move_robot
+[0.848s] running symlink_data
+[0.875s] Invoked command in '/home/bedylmz/Desktop/hw4/build/move_robot' returned '0': PYTHONPATH=/home/bedylmz/Desktop/hw4/build/move_robot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/bedylmz/Desktop/hw4/install/move_robot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/bedylmz/Desktop/hw4/build/move_robot/build --no-deps symlink_data

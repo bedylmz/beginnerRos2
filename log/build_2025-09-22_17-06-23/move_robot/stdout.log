@@ -1,0 +1,15 @@
+running develop
+running egg_info
+writing move_robot.egg-info/PKG-INFO
+writing dependency_links to move_robot.egg-info/dependency_links.txt
+writing entry points to move_robot.egg-info/entry_points.txt
+writing requirements to move_robot.egg-info/requires.txt
+writing top-level names to move_robot.egg-info/top_level.txt
+reading manifest file 'move_robot.egg-info/SOURCES.txt'
+writing manifest file 'move_robot.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/bedylmz/Desktop/hw4/install/move_robot/lib/python3.10/site-packages/move-robot.egg-link (link to .)
+Installing move_forward script to /home/bedylmz/Desktop/hw4/install/move_robot/lib/move_robot
+
+Installed /home/bedylmz/Desktop/hw4/build/move_robot
+running symlink_data
